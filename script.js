@@ -4,16 +4,7 @@
     options: ["Paris", "London", "Berlin", "Madrid"],
     answer: "Paris"       
   },
-  {
-    question: "What is the largest planet in our solar system?",
-    options: ["Earth", "Mars", "Jupiter", "Saturn"],
-    answer: "Jupiter" 
-  },
-  {
-    question: "Who wrote 'To Kill a Mockingbird'?",
-    options: ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
-    answer: "Harper Lee"
-  },
+  
   {
     question: "What is the chemical symbol for water?",
     options: ["H2O", "CO2", "O2", "NaCl"],
